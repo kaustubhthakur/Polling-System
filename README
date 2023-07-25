@@ -1,0 +1,10 @@
+# Polling-System (smart contract)
+  1) owner can create a poll with as many queries he want
+  2) users can vote on it by QUERYID
+  3) owner can get the query with highest votes by users
+
+
+# npx hardhat compile
+# npx hardhat test
+# npx hardhat run script/deploy.js --network sepolia(add your address private key and sepolia network url)
+
